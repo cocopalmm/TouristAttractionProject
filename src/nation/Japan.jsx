@@ -11,7 +11,7 @@ function Japan() {
   return (
     <div className="image-item Japan" onClick={handleClick}>
       <img
-        src={`${process.env.PUBLIC_URL}/Japan.png`}
+        src={`${process.env.PUBLIC_URL}/img/Japan.png`}
         alt="The Great Wall of China"
         className="special-effect"
       />

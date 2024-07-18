@@ -11,7 +11,7 @@ function Korea() {
   return (
     <div className="image-item Korea" onClick={handleClick}>
       <img
-        src={`${process.env.PUBLIC_URL}/Korea.jpg`}
+        src={`${process.env.PUBLIC_URL}/img/Korea.jpg`}
         alt="Korea"
         className="special-effect"
       />
